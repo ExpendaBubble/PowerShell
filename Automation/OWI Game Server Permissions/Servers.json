@@ -1,0 +1,100 @@
+[
+    {
+        "Game" : "PS",
+        "ServerConfig": "C:\\Servers\\servers\\2\\serverfiles\\Postscriptum\\ServerConfig",
+        "Groups": [
+            {
+                "Name": "SuperAdmin",
+                "Permissions": [
+                    "kick",
+                    "ban",
+                    "changemap",
+                    "canseeadminchat",
+                    "balance",
+                    "cheat",
+                    "private",
+                    "chat",
+                    "config",
+                    "pause",
+                    "immune",
+                    "manageserver",
+                    "cameraman",
+                    "featuretest",
+                    "forceteamchange",
+                    "reserve",
+                    "demos",
+                    "debug",
+                    "teamchange"
+                ]
+            },
+            {
+                "Name": "Admin",
+                "Permissions": [
+                    "kick",
+                    "changemap",
+                    "canseeadminchat",
+                    "balance",
+                    "chat",
+                    "cameraman",
+                    "teamchange",
+                    "reserve"
+                ]
+            },
+            {
+                "Name": "Whitelist",
+                "Permissions": [
+                    "reserve"
+                ]
+            }
+        ]
+    },
+    {
+        "Game" : "PS",
+        "ServerConfig": "C:\\Servers\\servers\\3\\serverfiles\\Postscriptum\\ServerConfig",
+        "Groups": [
+            {
+                "Name": "SuperAdmin",
+                "Permissions": [
+                    "kick",
+                    "ban",
+                    "changemap",
+                    "canseeadminchat",
+                    "balance",
+                    "cheat",
+                    "private",
+                    "chat",
+                    "config",
+                    "pause",
+                    "immune",
+                    "manageserver",
+                    "cameraman",
+                    "featuretest",
+                    "forceteamchange",
+                    "reserve",
+                    "demos",
+                    "debug",
+                    "teamchange"
+                ]
+            },
+            {
+                "Name": "Admin",
+                "Permissions": [
+                    "kick",
+                    "changemap",
+                    "canseeadminchat",
+                    "balance",
+                    "chat",
+                    "cameraman",
+                    "teamchange",
+                    "reserve"
+                ]
+            },
+            {
+                "Name": "Whitelist",
+                "Permissions": [
+                    "reserve"
+                ]
+            }
+        ]
+    }
+]
